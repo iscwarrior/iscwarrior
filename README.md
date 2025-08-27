@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/_static/sd_pipeline.png" 
-       alt="Pipeline IA" width="400"/>
+  <img src="https://raw.githubusercontent.com/onnx/models/main/vision/classification/resnet/model/ResNet50v2.png"
+       alt="Red Neuronal" width="400"/>
 </div>
 
 
