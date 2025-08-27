@@ -25,8 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 <!--- snake -->
 <div align="center">
-  <img  src="[https://www.flaticon.es/icono-gratis/inteligencia-artificial_3119730?term=inteligencia+artificial&page=1&position=33&origin=tag&related_id=3119730#](https://www.freepik.es/imagen-ia-gratis/ai-robot-gazing-at-code-futuristic-cyberpunk-vision_419054837.htm#fromView=keyword&page=1&position=0&uuid=6a8cc35e-a390-4fae-bd78-80d1ea4bf43e&query=Desarrollo+inteligencia+artificial)"
+  <img  src="[https://www.flaticon.es/icono-gratis/inteligencia-artificial_3119730?term=inteligencia+artificial&page=1&position=33&origin=tag&related_id=3119730#](https://www.freepik.es/imagen-ia-gratis/ai-robot-gazing-at-code-futuristic-cyberpunk-vision_419054837.htm#fromView=keyword&page=1&position=0&uuid=6a8cc35e-a390-4fae-bd78-80d1ea4bf43e&query=Desarrollo+inteligencia+artificial](https://www.freepik.es/imagen-ia-gratis/ai-robot-gazing-at-code-futuristic-cyberpunk-vision_419054837.htm#fromView=keyword&page=1&position=0&uuid=6a8cc35e-a390-4fae-bd78-80d1ea4bf43e&query=Desarrollo+inteligencia+artificial))"
        alt="ISCWarrior" /></a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/_static/sd_pipeline.png" 
+       alt="Pipeline IA" width="400"/>
 </div>
 
 
