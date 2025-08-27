@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!--- snake -->
 <div align="center">
   <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       alt="ISCWarrior" /></a>
+       alt="ISCWarrior" with="200px" height="160px" /></a>
 </div>
 
 <!--h2 without bottom border-->
@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,css,html,docker,postgres,express,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,graphql,figma,insomnia,n8n,opencv&perline=15" />
+    <img src="https://skillicons.dev/icons?i=aws,php,css,html,docker,postgres,express,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,graphql,figma,opencv,gcp,insomnia,n8n&perline=15" />
   </a>
 </p>
 
