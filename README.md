@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
