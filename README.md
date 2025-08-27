@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!--- snake -->
 <div align="center">
   <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       alt="ISCWarrior" with="200px" height="160px" /></a>
+       alt="ISCWarrior" with="250px" height="200px" /></a>
 </div>
 
 <!--h2 without bottom border-->
