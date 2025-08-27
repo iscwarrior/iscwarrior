@@ -78,9 +78,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="TROPHY" />
-    </a>
+  <a> *** </a>
 </div>
 <!--- trophy (start) -->
 
