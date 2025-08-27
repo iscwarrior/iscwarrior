@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://www.flaticon.es/icono-gratis/inteligencia-artificial_3119730?term=inteligencia+artificial&page=1&position=33&origin=tag&related_id=3119730#"
        alt="snake" /></a>
 </div>
 
