@@ -62,25 +62,25 @@ You can click the Preview link to take a look at your changes.
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" />
+  <!--- <img  align="center"  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" />-->
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iscwarrior&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iscwarrior&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a> *** </a>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
 </div>
-<!--- trophy (start) -->
 
 
 </p>        
@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,css,html,docker,postgres,express,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,graphql,figma,opencv,gcp,insomnia,n8n&perline=15" />
+    <img src="https://skillicons.dev/icons?i=aws,php,css,html,sass,docker,postgres,express,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,graphql,figma,opencv,gcp,bootstrap,vercel,mariadb,npm,nodemon,ai,appleinsomnia,n8n&perline=15" />
   </a>
 </p>
 
