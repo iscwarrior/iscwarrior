@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,css,html,docker,postgres,prisma,express,figma,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,insomnia,graphql,n8n&perline=15" />
+    <img src="https://skillicons.dev/icons?i=aws,php,css,html,docker,postgres,express,firebase,git,github,gitlab,java,js,angular,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,pytorch,graphql,figma,insomnia,n8n,opencv&perline=15" />
   </a>
 </p>
 
