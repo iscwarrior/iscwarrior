@@ -29,12 +29,6 @@ You can click the Preview link to take a look at your changes.
        alt="ISCWarrior" /></a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/onnx/models/main/vision/classification/resnet/model/ResNet50v2.png"
-       alt="Red Neuronal" width="400"/>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
