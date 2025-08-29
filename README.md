@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **RIS | PACS, react/angular, docker, nodejs, mongoDB, CNN, Computer vision, graphQl, Computer networks **
 
-- 📫 Feel free to reach me out **mcc.daniel.fguerrero@gmail.co**
+- 📫 Feel free to reach me out **mcc.daniel.fguerrero@gmail.com**
 
 <!--- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
