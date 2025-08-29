@@ -38,17 +38,18 @@ You can click the Preview link to take a look at your changes.
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on python, JS (React)
+- 🔭 I'm currently learning neural networks and deep learning..
+- 🔭 I'm also working with Python, using PyTorch for medical image analysis.
 
-- 🌱 I’m currently learning  Deep Learning
+- 🌱 I occasionally work with JS (React).
 
-- ☁️ I've keen interest in enthusiastic, data science and data mining concept and cloud computing. So,I'm learning **GCP**
+- ☁️ I've keen interest in enthusiastic, data science and data mining concept and cloud computing.
 
 <!--- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)-->
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **RIS | PACS, react/angular, docker, nodejs, mongoDB, CNN, Computer vision, graphQl, Computer networks **
 
-- 📫 Feel free to reach me out **dani.fguerrero@gmail.com**
+- 📫 Feel free to reach me out **mcc.daniel.fguerrero@gmail.co**
 
 <!--- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
@@ -132,4 +133,4 @@ You can click the Preview link to take a look at your changes.
 ----------------------------------------------------------------------
 Credit: [ISCWARRIOR](https://github.com/iscwarrior)
 
-Last Edited on: 27/08/2025
+Last Edited on: 28/05/2025
